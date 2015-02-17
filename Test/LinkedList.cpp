@@ -100,7 +100,8 @@ int main()
 	list.insertToTail(4).insertToTail(2).insertToTail(1);
 	list.insertToHead(9).insertToHead(10).insertToHead(11);
 
-	list.toString()
+	list.toString();
+	error
 
 	list.reverse("fuck your mom");
 
